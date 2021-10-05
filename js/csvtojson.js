@@ -1,13 +1,13 @@
 const csvtojson = require('csvtojson')
 const fs = require('fs')
-
-const csvfilepath = "../data/APPLClosingPrice.csv"
+const f = 'applecashflow2020-2011'
+const csvfilepath = `./data/${f}.csv`
 
 csvtojson()
 .fromFile(csvfilepath)
 .then((json) => {
   console.log(json)
-  fs.writeFileSync("output.json", JSON.stringify(json),"utf-8",(err) => {
+  fs.writeFileSync(`./json/${f}.json`, JSON.stringify(json),"utf-8",(err) => {
     if(err) console.log(err)
   })
 })

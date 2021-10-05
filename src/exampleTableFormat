@@ -1,0 +1,122 @@
+<table id="appleCashFlow2020-2011">
+    <caption>apple cash flow 2020-2019</caption>
+    <thead>
+      <tr>
+        <th></th>
+        <th>2020</th>
+        <th>2019</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Net Income</th>
+        <td>57,411</td>
+        <td>55,256</td>
+      </tr>
+      <tr>
+        <th>Depreciation & Amortization</th>
+        <td>11,056</td>
+        <td>12,547</td>
+      </tr>
+      <tr>
+        <th>Share-Based Compensation</th>
+        <td>6,829</td>
+        <td>6,068</td>
+      </tr>
+      <tr>
+        <th>Other Operating Activities</th>
+        <td>5,738</td>
+        <td>-4,480</td>
+      </tr>
+      <tr>
+        <th>Operating Cash Flow</th>
+        <td>80,674</td>
+        <td>69,391</td>
+      </tr>
+      <tr>
+        <th>Operating Cash Flow Growth</th>
+        <td>16.26%</td>
+        <td>-10.26%</td>
+      </tr>
+      <tr>
+        <th>Capital Expenditures</th>
+        <td>-7,309</td>
+        <td>-10,495</td>
+      </tr>
+      <tr>
+        <th>Acquisitions</th>
+        <td>-1,524</td>
+        <td>-624</td>
+      </tr>
+      <tr>
+        <th>Change in Investments</th>
+        <td>5,335</td>
+        <td>-791</td>
+      </tr>
+      <tr>
+        <th>Other Investing Activities</th>
+        <td>-791</td>
+        <td>-1,078</td>
+      </tr>
+      <tr>
+        <th>Investing Cash Flow</th>
+        <td>-4,289</td>
+        <td>45,896</td>
+      </tr>
+      <tr>
+        <th>Dividends Paid</th>
+        <td>-14,081</td>
+        <td>-14,119</td>
+      </tr>
+      <tr>
+        <th>Share Issuance / Repurchase</th>
+        <td>-71,478</td>
+        <td>-66,116</td>
+      </tr>
+      <tr>
+        <th>Debt Issued / Paid</th>
+        <td>2,499</td>
+        <td>-7,819</td>
+      </tr>
+      <tr>
+        <th>Other Financing Activities</th>
+        <td>-3,760</td>
+        <td>-2,922</td>
+      </tr>
+      <tr>
+        <th>Financing Cash Flow</th>
+        <td>-86,820</td>
+        <td>-90,976</td>
+      </tr>
+      <tr>
+        <th>Net Cash Flow</th>
+        <td>-10,435</td>
+        <td>24,311</td>
+      </tr>
+      <tr>
+        <th>Free Cash Flow</th>
+        <td>73,365</td>
+        <td>58,896</td>
+      </tr>
+      <tr>
+        <th>Free Cash Flow Growth</th>
+        <td>Dolor</td>
+        <td>Dolor</td>
+      </tr>
+      <tr>
+        <th>Free Cash Flow Margin</th>
+        <td>24.57%</td>
+        <td>-8.15%</td>
+      </tr>
+      <tr>
+        <th>Free Cash Flow Per Share</th>
+        <td>4.23</td>
+        <td>3.19</td>
+      </tr>
+    </tbody>
+    <!-- <tfoot>
+      <tr>
+        <td colspan="2">Table Foot</td>
+      </tr>
+    </tfoot> -->
+  </table>
